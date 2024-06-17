@@ -19,3 +19,5 @@ Other technicues used was:
 - Ensemble of different models including SVM, RF, GB and Catboost
 
 During the competition numerous models were bild. The best performance was tracked on the models, based on XGBoost algorythm.
+
+# XGBoost
